@@ -10,14 +10,14 @@ const ProjectsData = [
       name: "Job Connect Web App",
       image: web1,
       link: "https://github.com/vasu2582/Job-Connect",
-      link2: "#",
+      link2: "https://job-connect-360.netlify.app",
     },
     {
         id: 2,
         name: "News Flow Web App",
         image: web2,
         link: "https://github.com/vasu2582/News-Flow-24x7",
-        link2: "https://news-flow-24x7.netlify.app/",
+        link2: "https://news-flow-24x7.netlify.app",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const ProjectsData = [
       name: "Portfolio Web Page",
       image: web4,
       link: "https://github.com/vasu2582/My-Portfolio",
-      link2: "#",
+      link2: "https://vasu-portfolio-1100.netlify.app",
     },
   ];
 
