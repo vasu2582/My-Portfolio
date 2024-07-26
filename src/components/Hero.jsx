@@ -15,7 +15,7 @@ const Hero = () => {
     }, []);
 
     const handleResumeClick = () => {
-        window.location.href = "https://drive.google.com/file/d/1V7hB12SKbVstr_tSbRQX9ezCPZXgqc3I/view"; // Replace with your resume URL
+        window.location.href = "https://drive.google.com/file/d/1IfIsK6LBklnBe3OGxPCgCg_v6ykhynZQ/view?usp=sharing"; 
     };
 
     return (
