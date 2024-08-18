@@ -15,7 +15,7 @@ const Hero = () => {
     }, []);
 
     const handleResumeClick = () => {
-        window.location.href = "https://drive.google.com/file/d/1IfIsK6LBklnBe3OGxPCgCg_v6ykhynZQ/view?usp=sharing"; 
+        window.location.href = "https://drive.google.com/file/d/1sq6FDY6ARCptclXn2LC4ZYgoVBYpAcoK/view?usp=drive_link"; 
     };
 
     return (
